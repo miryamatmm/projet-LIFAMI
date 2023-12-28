@@ -1,0 +1,31 @@
+ATAMNA MIRYAM
+
+
+Le jeu est un jeu qui se joue à plusieurs mais j'ai fais une version solo avec des cibles, il est inspiré du jeu 2,3,4 players. Les joueurs sont des tanks et le premier qui tue l'autre à gagner.
+Le but est d'exterminer l'adversaire, en récupérant les bonus pour avoir l'avantage sur lui.
+Je ne me suis appuyé sur aucun site internet, seulement sur les TP précédents.
+Pour les images je les cherchait sur eggpng et sinon je les créais à partir de plusieurs images (comme la map)  avec le logiciel GIMP
+
+Historique :
+
+Semaine 1 : J'ai fais les structures projectiles et tank, les draw et update associé (les updates ne sont pas finis), j'ai commencer par faire bouger les tank avec les 4 flèches (haut,bas, gauche,droite)
+
+Semaine 2 : ça tire les projectiles mais j'essaye de mettre un intervalle de temps entre les projectiles pour qu'ils soient mieux tirés, ils se tiraient tous en même temps. J'ai changé la manière de se déplacer ici j'utilise cos et sin puis un angle pour avoir une direction
+
+Semaine 3 : Les projectiles marchent je commence les collisions, j'ai eu bcp de pb avec ça puisque le projectile enlevait 5 vies voir + au lieu d'une 
+
+Semaine 4 : J'ai rajouté le mode de jeu solo avec les cibles et  les colis et ajout de toutes les images (clairement j'ai fais les 3/4 du travail ici c'était long)
+		J'ai rajouté un menu pour les modes de jeu, des vies, et le temps pour le mode solo
+		J'ai beaucoup bloqué sur le elapsedTime j'ai pris du temps à comprendre comment l'utiliser
+		
+
+
+Le joueur 1 : utilise la fleche du haut pour avancer, et les flèches de gauche et de droite pour changer de direction
+
+Le joueur 2 : utilise la touche "e" pour avancer et les touches de "s" et "f" pour changer de direction
+
+Pour ce qui est du code j'ai essayé d'expliquer en commentaire (sauf les trucs évidents)
+
+Partie science : pour mon jeu j'utilise en grande partie et des complexes
+
+
