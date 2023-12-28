@@ -1,4 +1,4 @@
-# Projet d'un jeu de tank
+# Projet d'un jeu de tank en C++ avec Grapic
 
 ## Description
 Le jeu Tank Battle est un jeu multijoueur inspiré du jeu 2,3,4 players. Il offre également une version solo avec des cibles. Les joueurs incarnent des tanks et l'objectif est d'éliminer l'adversaire en récupérant des bonus pour obtenir un avantage stratégique.
